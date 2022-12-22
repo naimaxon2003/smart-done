@@ -115,7 +115,7 @@ h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
+  padding: 5px 0;
 }
 
 #header.header-scrolled,
@@ -138,7 +138,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -391,7 +391,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
 }
 
 #hero .container {
